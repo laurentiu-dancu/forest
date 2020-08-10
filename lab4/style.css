@@ -1,0 +1,39 @@
+.body {
+	background-color:lightgrey;
+}
+
+.container {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding-left: 50px;
+	padding-right:50px;
+	background-color: white;
+	padding-bottom: 50px;
+}
+.title {
+	padding-top: 20px;
+	color:purple;
+	font-family: helvetica;
+}
+
+.table {
+	width: 100%;
+	font-family: calibri;
+}
+
+.row {
+	height: 50px;
+}
+
+.entry {
+	background-color: purple;
+    color: white;
+	padding-left: 12px;
+	padding-right: 6px;
+}
+
+p {
+	padding-left: 20px;
+	color: white;
+}

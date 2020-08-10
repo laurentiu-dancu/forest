@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!--<?xml-stylesheet type="text/css" href="book.css"?>-->
+<?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
+
+<recipes>
+	<recipe>
+		<name>Omlette du fromage</name>
+		<preptime>5</preptime>
+		<cooktime>5</cooktime>
+		<ingredients>3 eggs, cheese</ingredients>
+		<instructions>Break eggs, throw them in pan. Put cheese in pan.</instructions>
+	</recipe>
+	<recipe>
+		<name>Garlic bread</name>
+		<preptime>5</preptime>
+		<cooktime>4</cooktime>
+		<ingredients>bread, garlic, salt</ingredients>
+		<instructions>Put bread in toaster. Apply garlic and salt on bread.</instructions>
+	</recipe>
+	<recipe>
+		<name>Straw potato</name>
+		<preptime>15</preptime>
+		<cooktime>20</cooktime>
+		<ingredients>potato, vegetable oil</ingredients>
+		<instructions>Cut potato like straws. Put potato in pan with hot oil. Remove when potato is literally straws.</instructions>
+	</recipe>
+	<recipe>
+		<name>Envelope soup</name>
+		<preptime>0</preptime>
+		<cooktime>5</cooktime>
+		<ingredients>envelope of soup, hot water</ingredients>
+		<instructions>Put contents of envelope in hot water. Wait.</instructions>
+	</recipe>
+</recipes>

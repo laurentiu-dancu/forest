@@ -1,0 +1,30 @@
+.image {
+	background-image: url(m0.jpg);
+	width: 684px; 
+    height: 385px; 
+	background-size: 100% 100%;
+    position: fixed; 
+}
+
+#t1:hover ~ .image {
+	background-image: url(m1.jpg);
+}
+
+#t2:hover ~ .image {
+	background-image: url(m2.jpg);
+}
+#t3:hover ~ .image {
+	background-image: url(m3.jpg);
+}
+#t4:hover ~ .image {
+	background-image: url(m4.jpg);
+}
+
+.thumb {
+	margin-right: 20px;
+	max-width: 156px;
+	width: auto;
+	height: auto;
+	float: left;
+	padding-top: 405px;
+}

@@ -1,0 +1,10 @@
+.main {
+	background-size: 100%;
+	height:100vh;
+	background-image: url("m0.jpg");
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
